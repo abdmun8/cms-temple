@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="50" fill="none" id="svgcontent" style="">
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""></rect>
+
+
+    <defs>
+        <filter id="filter0_d" x="230" y="0" width="15" height="78" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+            <feOffset dx="1" dy="1"></feOffset>
+            <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <linearGradient id="paint0_linear" x1="0.5229166746139526" y1="0" x2="0.650237500667572" y2="1.1399799585342407">
+            <stop stop-color="#BB010A"></stop>
+            <stop offset="1" stop-color="#ED6A2C"></stop>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="-0.8571428656578064" y1="0.44285714626312256" x2="2.2857143878936768" y2="0.4214285612106323">
+            <stop stop-color="#BB010A"></stop>
+            <stop offset="1" stop-color="#ED6A2C"></stop>
+        </linearGradient>
+    </defs>
+    <g class="currentLayer" style="pointer-events:all">
+        <title>Layer 1</title>
+        <path opacity="0.75" d="M0,0 H240 V50.48780718295845 H0 V0 z" fill="url(#paint0_linear)" id="svg_1" class="selected"></path>
+        <g filter="url(#filter0_d)" id="svg_2" class="">
+            <path d="M240,49.411119836518225 C236.134,49.411119836518225 233,47.19891341412325 233,44.4700078528664 L233,4.9411119836518225 C233,2.2122064223949733 236.134,0 240,0 L240,49.411119836518225 z" fill="url(#paint1_linear)" id="svg_3"></path>
+        </g>
+    </g>
+</svg>
